@@ -1,5 +1,5 @@
 # Comcast Telecom Consumer Complaints
-## project description
+## Project Description
    * Comcast is an American global telecommunication company. The firm had been providing terrible customer service. Performed Exploratory Data Analysis to pin down what was wrong with Comcast's customer service.
    
 ## Tasks performed
